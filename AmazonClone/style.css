@@ -1,0 +1,35 @@
+*{
+    padding:0px;
+    margin:0px;
+    color:white;
+    background-color: rgba(127, 255, 212, 0.226);
+}
+#two{
+    height:60px;
+    background-color: black;
+}
+#one{
+    color:orange;
+    font-size:25px;;
+}
+button{
+    background-color:coral;
+}
+a{
+    margin-right: 200px;;
+}
+.contentarea{
+    height:100px;
+    width:100px;
+    border:2px solid black;
+    display:inline-block;
+}
+footer{
+   
+    background-color: black;
+    text-align:center;
+}
+#content{
+    height:1000px;
+    margin-right:200px;
+}
